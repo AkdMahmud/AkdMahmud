@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdul Kader
 
 🎓 Business Intelligence | 📊 Data Analytics | 📌 Dashboard Developer (Power BI, Tableau)  
-📍 Dhaka, Bangladesh | 📬 akdmahmud@example.com
+📍 Dhaka, Bangladesh | 📬 mahmudabdulkader13@gmail.com
 
 ---
 
@@ -45,7 +45,7 @@ I'm a data enthusiast focused on transforming business data into actionable insi
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/your-profile) • [Portfolio](https://your-portfolio-link.com) • [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/abdul-kader-3478b3183/?trk=opento_sprofile_goalscard) • [Portfolio](https://your-portfolio-link.com) • [Email](mahmudabdulkader13@gmail.com)
 
 ---
 ⭐️ *Thanks for visiting!*
